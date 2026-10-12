@@ -35,4 +35,7 @@
 
 ## GitHubでの活動
 
-<img src="./profile-3d-contrib/profile-green.svg" alt="GitHubの活動履歴を緑色で3D表示したグラフ" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <img src="./profile-3d-contrib/profile-green.svg" alt="GitHubの活動履歴を緑色で3D表示したグラフ" width="100%" />
+</picture>
